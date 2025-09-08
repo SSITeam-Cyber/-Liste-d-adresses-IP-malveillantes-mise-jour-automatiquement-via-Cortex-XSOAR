@@ -1,2 +1,2 @@
-# -Liste-IP-malveillantes-mise-jour-automatiquement-via-Cortex-XSOAR
+# Liste-Ip-Malveillantes-Cortex-XSOAR
 Liste d'adresse ip alimenté par Xsoar
