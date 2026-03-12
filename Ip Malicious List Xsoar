@@ -1,3 +1,4 @@
 0.0.0.0
 ${IPtoBlock}
 ${IPtoBlock}
+${inputs.IP_to_block}
